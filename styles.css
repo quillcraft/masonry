@@ -39,7 +39,7 @@ body {
 .big {
 	background-color: lightpink;
 
-	grid-column: span 2;
+	grid-column: span 3;
 	grid-row: span 2;
 }
 
@@ -53,4 +53,5 @@ body {
 	background-color: lightsteelblue;
 
 	grid-column: span 2;
+	grid-row: span 2;
 }
