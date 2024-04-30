@@ -1,2 +1,3 @@
 # Grid layout masonry
-Release: https://quillcraft.github.io/masonry
+
+[Demo page](https://quillcraft.github.io/masonry/)
